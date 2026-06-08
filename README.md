@@ -39,12 +39,13 @@
 
 - 刺杀剑术破防之余，技能等级越高，刺杀剑术的攻速越快，爽之又爽；
 
-### 支持多平台部署
+## 客户端
 
-服务端支持在 Linux、Windows、Docker 平台上部署。
+【[客户端]( http://opanlist.cokei521.top/@s/cC1HxTzF)】 密码：159159
 
-<img src="Images/docker.jpg" title="Docker 运行截图">
-<br/>
+【[客户端依赖文件]( http://opanlist.cokei521.top/@s/SrU21yCh)】 密码：159159
+
+
 	
 ### 便捷传送
 
